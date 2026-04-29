@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Success</title>
+
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: #f5f7fa;
+            font-family: Arial;
+        }
+
+        .box {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        h2 {
+            color: green;
+        }
+    </style>
+
+    <!-- Auto Redirect Script -->
+    <script>
+        setTimeout(function () {
+            window.location.href = '/Home/Index'; // change if needed
+        }, 10000); // 2 seconds
+    </script>
+
+</head>
+
+<body>
+
+    <div class="box">
+        <h2>✅ Data Saved Successfully!</h2>
+        <p>Redirecting to Home...</p>
+    </div>
+
+</body>
+</html>
