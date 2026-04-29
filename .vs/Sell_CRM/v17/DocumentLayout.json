@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\C#_DOTNET\\Sell_CRM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{491DF58F-F27D-4DA8-8258-F4E809AFA1BB}|Sell_CRM\\Sell_CRM.csproj|D:\\C#_DOTNET\\Sell_CRM\\sell_crm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{491DF58F-F27D-4DA8-8258-F4E809AFA1BB}|Sell_CRM\\Sell_CRM.csproj|d:\\c#_dotnet\\sell_crm\\sell_crm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{491DF58F-F27D-4DA8-8258-F4E809AFA1BB}|Sell_CRM\\Sell_CRM.csproj|solutionrelative:sell_crm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{491DF58F-F27D-4DA8-8258-F4E809AFA1BB}|Sell_CRM\\Sell_CRM.csproj|solutionrelative:sell_crm\\views\\home\\enquiry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491DF58F-F27D-4DA8-8258-F4E809AFA1BB}|Sell_CRM\\Sell_CRM.csproj|d:\\c#_dotnet\\sell_crm\\sell_crm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{491DF58F-F27D-4DA8-8258-F4E809AFA1BB}|Sell_CRM\\Sell_CRM.csproj|D:\\C#_DOTNET\\Sell_CRM\\sell_crm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{491DF58F-F27D-4DA8-8258-F4E809AFA1BB}|Sell_CRM\\Sell_CRM.csproj|solutionrelative:sell_crm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,8 +54,7 @@
               "RelativeToolTip": "Sell_CRM\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T09:43:33.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T09:43:33.122Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Sell_CRM\\Views\\Home\\Enquiry.cshtml",
               "ViewState": "AgIAALAAAAAAAAAAAAAkwMgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T10:29:11.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T10:29:11.771Z"
             },
             {
               "$type": "Document",
@@ -102,7 +100,7 @@
               "RelativeDocumentMoniker": "Sell_CRM\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\C#_DOTNET\\Sell_CRM\\Sell_CRM\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Sell_CRM\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-24T15:03:08.558Z",
               "EditorCaption": ""
